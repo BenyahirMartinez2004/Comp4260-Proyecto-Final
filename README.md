@@ -53,7 +53,7 @@ Describe brevemente tu aplicación:
 ## 💻 Enlace a la Aplicación Desplegada
 > [https://gestionadordetareas.azurewebsites.net](https://gestionadordetareas.azurewebsites.net) - Benyahir Y. Martinez Hermina
 
-> [https:// ]() - Adriana M. Marrero Sánchez
+> [https://gestionador-de-tareas.azurewebsites.net](https://gestionador-de-tareas.azurewebsites.net) - Adriana M. Marrero Sánchez
 ---
 
 ## 💸 Estimación del Costo (Azure Pricing Calculator)
