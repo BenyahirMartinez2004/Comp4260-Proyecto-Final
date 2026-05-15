@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Integrantes del Equipo
 - Benyahir Y. Martínez Hermina - R00624824 - bmm68benya@gmail.com
-- Adriana M. Marrero Sanchéz - R0062700 - ?
+- Adriana M. Marrero Sanchéz - R0062700 - amarrero7200@gmail.com
 
 ---
 
