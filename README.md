@@ -120,16 +120,17 @@ Describe brevemente tu aplicación:
   Azure App para que al final se pueda presentar sin ningún problema. Pero lastimosamente el problema con correr la aplicación de manera local no se pudo resolver.
 
 - ¿Qué aprendieron sobre trabajar con servicios cloud?
+  >Aprendimos que estos toman una gran cantidad de esfuerzo para que funcionen de manera coherente con todos sus componentes. Fue un nuevo territorio cuando tuvimos que añadir las variables del entorno al App Service sin tener en cuenta como funcionaban, pero cuando inspeccionamos la relación que tenían adentro del código de la aplicación pudimos entender como se relacionaban dándonos un mejor entendimiento de como iba a funcionar ya cuando todo se entrelazara. También al trabajar el proyecto de manera sudo cooperativa pudimos desarrollar nuestras habilidades en este campo de una manera mucho exponencial.
   
 - ¿Qué mejorarían en una próxima versión del proyecto?
-  
+  >Consideraríamos para una versión nueva de este proyecto seria añadirle retroalimentación positiva al usuario que lo motive a seguir realizando sus tareas gestionadas. Al igual, que permitir que el usuario marque que tareas tiene prioridad y su fecha de limite. También que el usuario pueda crear grupos donde puede guardar tareas para poder organizarlas mejor.
   
 ---
 
 ## 📚 Repositorio del Código
 Incluye el link al repositorio de GitHub (debe estar público o accesible para el profesor):
 > [https://github.com/BenyahirMartinez2004/Comp4260-Projecto-Gestionador-de-Tareas.git](https://github.com/BenyahirMartinez2004/Comp4260-Projecto-Gestionador-de-Tareas.git) - Benyahir Y. Martínez Hermina
-
+>
 > [https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git](https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git) - Adriana M. Marrero Sánchez
 ---
 
